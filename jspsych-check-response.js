@@ -1,7 +1,7 @@
 /**
  * jspsych-check-response
  * Josh de Leeuw
- * modifeid by Emiel Cracco
+ * modified by Emiel Cracco
  *
  * plugin for checking a keyboard response
  *
